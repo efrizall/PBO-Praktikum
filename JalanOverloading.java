@@ -6,5 +6,6 @@ public class JalanOverloading {
         co.jumlah(34, 454, 432);
         co.jumlah(34.43, 34);
         co.jumlah(28, 33.23);
+        co.jumlah(22, 22, 22.22);
     }
 }
