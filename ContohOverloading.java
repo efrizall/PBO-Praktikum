@@ -20,4 +20,6 @@ public class ContohOverloading{
     public void jumlah(int a, int b, double c){
         System.out.println("jumlah 3 angka dari = " (a+b+c));
     }
+    
+    //Tes
 }
